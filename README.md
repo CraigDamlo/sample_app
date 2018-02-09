@@ -1,4 +1,4 @@
-# README
+# Deployed on Heroku [here] (https://secure-fortress-90984.herokuapp.com/)
 
 #Ruby on Rails Tutorial sample application
 
